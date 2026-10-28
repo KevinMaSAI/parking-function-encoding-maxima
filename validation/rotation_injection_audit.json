@@ -1,0 +1,90 @@
+[
+  {
+    "length": 3,
+    "alphabet": 4,
+    "inputs_checked": 14,
+    "injection_verified": true,
+    "strictness_witness": [
+      1,
+      3,
+      1
+    ],
+    "inverse_is_not_parking": [
+      3,
+      1,
+      3
+    ]
+  },
+  {
+    "length": 5,
+    "alphabet": 4,
+    "inputs_checked": 70,
+    "injection_verified": true,
+    "strictness_witness": [
+      1,
+      2,
+      1,
+      5,
+      1
+    ],
+    "inverse_is_not_parking": [
+      5,
+      1,
+      2,
+      1,
+      5
+    ]
+  },
+  {
+    "length": 7,
+    "alphabet": 4,
+    "inputs_checked": 353,
+    "injection_verified": true,
+    "strictness_witness": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      7,
+      1
+    ],
+    "inverse_is_not_parking": [
+      7,
+      1,
+      2,
+      1,
+      2,
+      1,
+      7
+    ]
+  },
+  {
+    "length": 9,
+    "alphabet": 4,
+    "inputs_checked": 1782,
+    "injection_verified": true,
+    "strictness_witness": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      9,
+      1
+    ],
+    "inverse_is_not_parking": [
+      9,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      9
+    ]
+  }
+]

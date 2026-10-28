@@ -1,0 +1,122 @@
+[
+  {
+    "n": 1,
+    "maximum": 1,
+    "alternating_word": "",
+    "seconds": 2.8700000257231295e-05
+  },
+  {
+    "n": 2,
+    "maximum": 1,
+    "alternating_word": "A",
+    "seconds": 2.649999805726111e-05
+  },
+  {
+    "n": 3,
+    "maximum": 4,
+    "alternating_word": "AD",
+    "seconds": 2.4400003894697875e-05
+  },
+  {
+    "n": 4,
+    "maximum": 17,
+    "alternating_word": "ADA",
+    "seconds": 2.7399997634347528e-05
+  },
+  {
+    "n": 5,
+    "maximum": 120,
+    "alternating_word": "ADAD",
+    "seconds": 3.529999958118424e-05
+  },
+  {
+    "n": 6,
+    "maximum": 915,
+    "alternating_word": "ADADA",
+    "seconds": 5.1099996198900044e-05
+  },
+  {
+    "n": 7,
+    "maximum": 9470,
+    "alternating_word": "ADADAD",
+    "seconds": 8.320000051753595e-05
+  },
+  {
+    "n": 8,
+    "maximum": 104436,
+    "alternating_word": "ADADADA",
+    "seconds": 0.00014830000145593658
+  },
+  {
+    "n": 9,
+    "maximum": 1432713,
+    "alternating_word": "ADADADAD",
+    "seconds": 0.0011843000029330142
+  },
+  {
+    "n": 10,
+    "maximum": 20709209,
+    "alternating_word": "ADADADADA",
+    "seconds": 0.001477300000260584
+  },
+  {
+    "n": 11,
+    "maximum": 354493902,
+    "alternating_word": "ADADADADAD",
+    "seconds": 0.0021383000057539903
+  },
+  {
+    "n": 12,
+    "maximum": 6343919118,
+    "alternating_word": "ADADADADADA",
+    "seconds": 0.002436699993268121
+  },
+  {
+    "n": 13,
+    "maximum": 130255212146,
+    "alternating_word": "ADADADADADAD",
+    "seconds": 0.004710599998361431
+  },
+  {
+    "n": 14,
+    "maximum": 2780356513594,
+    "alternating_word": "ADADADADADADA",
+    "seconds": 0.012179299999843352
+  },
+  {
+    "n": 15,
+    "maximum": 66607482974307,
+    "alternating_word": "ADADADADADADAD",
+    "seconds": 0.02274780000152532
+  },
+  {
+    "n": 16,
+    "maximum": 1651884203936474,
+    "alternating_word": "ADADADADADADADA",
+    "seconds": 0.04766169999493286
+  },
+  {
+    "n": 17,
+    "maximum": 45240390673466869,
+    "alternating_word": "ADADADADADADADAD",
+    "seconds": 0.09809079999831738
+  },
+  {
+    "n": 18,
+    "maximum": 1278413274487999471,
+    "alternating_word": "ADADADADADADADADA",
+    "seconds": 0.24072359999991022
+  },
+  {
+    "n": 19,
+    "maximum": 39403978336643657797,
+    "alternating_word": "ADADADADADADADADAD",
+    "seconds": 0.48258270000224
+  },
+  {
+    "n": 20,
+    "maximum": 1249821733374560346851,
+    "alternating_word": "ADADADADADADADADADA",
+    "seconds": 1.0588520999954198
+  }
+]

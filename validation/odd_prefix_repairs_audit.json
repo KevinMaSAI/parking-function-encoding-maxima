@@ -1,0 +1,104 @@
+{
+  "threshold_word_checks": [
+    {
+      "odd_length": 3,
+      "alphabet": 4,
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "instances_checked": 11,
+      "inverse_and_dominance_verified": true
+    },
+    {
+      "odd_length": 5,
+      "alphabet": 4,
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "instances_checked": 53,
+      "inverse_and_dominance_verified": true
+    },
+    {
+      "odd_length": 7,
+      "alphabet": 4,
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "instances_checked": 266,
+      "inverse_and_dominance_verified": true
+    },
+    {
+      "odd_length": 9,
+      "alphabet": 4,
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "instances_checked": 1342,
+      "inverse_and_dominance_verified": true
+    }
+  ],
+  "parking_prefix_checks": [
+    {
+      "n": 3,
+      "parking_inputs_checked": 0,
+      "per_class_injection_verified": true
+    },
+    {
+      "n": 4,
+      "parking_inputs_checked": 14,
+      "per_class_injection_verified": true
+    },
+    {
+      "n": 5,
+      "parking_inputs_checked": 141,
+      "per_class_injection_verified": true
+    },
+    {
+      "n": 6,
+      "parking_inputs_checked": 2620,
+      "per_class_injection_verified": true
+    }
+  ],
+  "complete_class_count_checks": [
+    {
+      "n": 3,
+      "strict_prefix_inequalities_checked": 0
+    },
+    {
+      "n": 4,
+      "strict_prefix_inequalities_checked": 2
+    },
+    {
+      "n": 5,
+      "strict_prefix_inequalities_checked": 4
+    },
+    {
+      "n": 6,
+      "strict_prefix_inequalities_checked": 10
+    },
+    {
+      "n": 7,
+      "strict_prefix_inequalities_checked": 20
+    },
+    {
+      "n": 8,
+      "strict_prefix_inequalities_checked": 42
+    },
+    {
+      "n": 9,
+      "strict_prefix_inequalities_checked": 84
+    },
+    {
+      "n": 10,
+      "strict_prefix_inequalities_checked": 170
+    }
+  ]
+}

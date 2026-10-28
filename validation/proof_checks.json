@@ -1,0 +1,32 @@
+{
+  "all_checks_passed": true,
+  "checks": {
+    "three_exact_count_methods": {
+      "passed": true
+    },
+    "odd_alternating_rotation": {
+      "passed": true
+    },
+    "tie_elimination": {
+      "passed": true
+    },
+    "odd_threshold_map": {
+      "passed": true
+    },
+    "strict_binary_repairs": {
+      "passed": true
+    },
+    "full_composed_injection": {
+      "passed": true,
+      "parking_inputs": 18248
+    },
+    "complete_ternary_classification": {
+      "passed": true,
+      "through_n": 10
+    },
+    "maximum_recurrence": {
+      "passed": true,
+      "through_n": 20
+    }
+  }
+}

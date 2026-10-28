@@ -1,0 +1,123 @@
+{
+  "actual_word_checks": [
+    {
+      "n": 1,
+      "parking_functions_with_ties_checked": 0,
+      "individual_steps_checked": 0,
+      "branches": {},
+      "all_inverses_encodings_and_parking_checks_pass": true
+    },
+    {
+      "n": 2,
+      "parking_functions_with_ties_checked": 1,
+      "individual_steps_checked": 1,
+      "branches": {
+        "end": 1
+      },
+      "all_inverses_encodings_and_parking_checks_pass": true
+    },
+    {
+      "n": 3,
+      "parking_functions_with_ties_checked": 7,
+      "individual_steps_checked": 9,
+      "branches": {
+        "end": 4,
+        "A_tail": 3,
+        "repair_AA_end": 1,
+        "next_D": 1
+      },
+      "all_inverses_encodings_and_parking_checks_pass": true
+    },
+    {
+      "n": 4,
+      "parking_functions_with_ties_checked": 61,
+      "individual_steps_checked": 80,
+      "branches": {
+        "end": 25,
+        "A_tail": 23,
+        "D_tail": 13,
+        "next_D": 14,
+        "repair_AA_end": 5
+      },
+      "all_inverses_encodings_and_parking_checks_pass": true
+    },
+    {
+      "n": 5,
+      "parking_functions_with_ties_checked": 671,
+      "individual_steps_checked": 928,
+      "branches": {
+        "end": 216,
+        "A_tail": 327,
+        "D_tail": 126,
+        "next_D": 195,
+        "repair_AA_end": 64
+      },
+      "all_inverses_encodings_and_parking_checks_pass": true
+    },
+    {
+      "n": 6,
+      "parking_functions_with_ties_checked": 9031,
+      "individual_steps_checked": 12766,
+      "branches": {
+        "end": 2401,
+        "A_tail": 4248,
+        "D_tail": 2316,
+        "next_D": 3040,
+        "repair_AA_end": 761
+      },
+      "all_inverses_encodings_and_parking_checks_pass": true
+    }
+  ],
+  "complete_count_checks": [
+    {
+      "n": 1,
+      "encoding_class_inequalities_checked": 0,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 2,
+      "encoding_class_inequalities_checked": 1,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 3,
+      "encoding_class_inequalities_checked": 5,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 4,
+      "encoding_class_inequalities_checked": 19,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 5,
+      "encoding_class_inequalities_checked": 65,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 6,
+      "encoding_class_inequalities_checked": 211,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 7,
+      "encoding_class_inequalities_checked": 665,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 8,
+      "encoding_class_inequalities_checked": 2059,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 9,
+      "encoding_class_inequalities_checked": 6305,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    },
+    {
+      "n": 10,
+      "encoding_class_inequalities_checked": 19171,
+      "strict_for_every_tied_encoding_if_n_ge_3": true
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "n": 1,
+    "maximum": 1,
+    "maximizers": [
+      ""
+    ],
+    "total": 1,
+    "number_of_encodings": 1,
+    "top": [
+      [
+        "",
+        1
+      ]
+    ],
+    "alternating_A": 1,
+    "alternating_D": 1,
+    "maximum_with_T": 0,
+    "seconds": 7.780000305501744e-05,
+    "all_three_methods_agree": true
+  },
+  {
+    "n": 2,
+    "maximum": 1,
+    "maximizers": [
+      "A",
+      "D",
+      "T"
+    ],
+    "total": 3,
+    "number_of_encodings": 3,
+    "top": [
+      [
+        "A",
+        1
+      ],
+      [
+        "D",
+        1
+      ],
+      [
+        "T",
+        1
+      ]
+    ],
+    "alternating_A": 1,
+    "alternating_D": 1,
+    "maximum_with_T": 1,
+    "seconds": 6.379999831551686e-05,
+    "all_three_methods_agree": true
+  },
+  {
+    "n": 3,
+    "maximum": 4,
+    "maximizers": [
+      "AD"
+    ],
+    "total": 16,
+    "number_of_encodings": 9,
+    "top": [
+      [
+        "AD",
+        4
+      ],
+      [
+        "DA",
+        3
+      ],
+      [
+        "DT",
+        2
+      ],
+      [
+        "TA",
+        2
+      ],
+      [
+        "AA",
+        1
+      ],
+      [
+        "AT",
+        1
+      ],
+      [
+        "DD",
+        1
+      ],
+      [
+        "TD",
+        1
+      ],
+      [
+        "TT",
+        1
+      ]
+    ],
+    "alternating_A": 4,
+    "alternating_D": 3,
+    "maximum_with_T": 2,
+    "seconds": 0.0001260999997612089,
+    "all_three_methods_agree": true
+  },
+  {
+    "n": 4,
+    "maximum": 17,
+    "maximizers": [
+      "ADA",
+      "DAD"
+    ],
+    "total": 125,
+    "number_of_encodings": 27,
+    "top": [
+      [
+        "ADA",
+        17
+      ],
+      [
+        "DAD",
+        17
+      ],
+      [
+        "AAD",
+        8
+      ],
+      [
+        "ADD",
+        8
+      ],
+      [
+        "ADT",
+        8
+      ],
+      [
+        "DTA",
+        8
+      ],
+      [
+        "TAD",
+        8
+      ],
+      [
+        "DAA",
+        6
+      ],
+      [
+        "DDA",
+        6
+      ],
+      [
+        "ATD",
+        4
+      ],
+      [
+        "DAT",
+        4
+      ],
+      [
+        "TDA",
+        4
+      ]
+    ],
+    "alternating_A": 17,
+    "alternating_D": 17,
+    "maximum_with_T": 8,
+    "seconds": 0.0006840999994892627,
+    "all_three_methods_agree": true
+  },
+  {
+    "n": 5,
+    "maximum": 120,
+    "maximizers": [
+      "ADAD"
+    ],
+    "total": 1296,
+    "number_of_encodings": 81,
+    "top": [
+      [
+        "ADAD",
+        120
+      ],
+      [
+        "DADA",
+        104
+      ],
+      [
+        "ADDA",
+        59
+      ],
+      [
+        "DAAD",
+        59
+      ],
+      [
+        "AADA",
+        47
+      ],
+      [
+        "DADD",
+        47
+      ],
+      [
+        "ADAA",
+        46
+      ],
+      [
+        "DDAD",
+        46
+      ],
+      [
+        "ADTA",
+        43
+      ],
+      [
+        "DTAD",
+        43
+      ],
+      [
+        "DADT",
+        39
+      ],
+      [
+        "TADA",
+        39
+      ]
+    ],
+    "alternating_A": 120,
+    "alternating_D": 104,
+    "maximum_with_T": 43,
+    "seconds": 0.004953100004058797,
+    "all_three_methods_agree": true
+  },
+  {
+    "n": 6,
+    "maximum": 915,
+    "maximizers": [
+      "ADADA",
+      "DADAD"
+    ],
+    "total": 16807,
+    "number_of_encodings": 243,
+    "top": [
+      [
+        "ADADA",
+        915
+      ],
+      [
+        "DADAD",
+        915
+      ],
+      [
+        "ADAAD",
+        516
+      ],
+      [
+        "ADDAD",
+        516
+      ],
+      [
+        "DAADA",
+        446
+      ],
+      [
+        "DADDA",
+        446
+      ],
+      [
+        "AADAD",
+        440
+      ],
+      [
+        "ADADD",
+        440
+      ],
+      [
+        "DADAA",
+        383
+      ],
+      [
+        "DDADA",
+        383
+      ],
+      [
+        "ADTAD",
+        298
+      ],
+      [
+        "DADTA",
+        284
+      ]
+    ],
+    "alternating_A": 915,
+    "alternating_D": 915,
+    "maximum_with_T": 298,
+    "seconds": 0.03806369999801973,
+    "all_three_methods_agree": true
+  }
+]

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying research preprint when using the results, code or data."
+title: "Maximizing the adjacent comparison classes of parking functions"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Ma
+    given-names: Qiyuan
+    orcid: "https://orcid.org/0009-0000-9532-0821"
+    affiliation: "Shanghai Jiao Tong University"
+    email: mqyqwerty@sjtu.edu.cn
+date-released: 2026-10-28
+url: "https://github.com/KevinMaSAI/parking-function-encoding-maxima"
+repository-code: "https://github.com/KevinMaSAI/parking-function-encoding-maxima"
+abstract: "AI-assisted research preprint giving explicit injections and a complete classification of the largest adjacent comparison classes of parking functions, with an exact maximum recurrence and reproducible checks."
+keywords:
+  - parking functions
+  - alternating words
+  - adjacent comparisons
+  - injections
+  - exact enumeration
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Ma
+      given-names: Qiyuan
+      orcid: "https://orcid.org/0009-0000-9532-0821"
+      affiliation: "Shanghai Jiao Tong University"
+  title: "Maximizing the adjacent comparison classes of parking functions"
+  year: 2026
+  url: "https://github.com/KevinMaSAI/parking-function-encoding-maxima/blob/main/paper.pdf"

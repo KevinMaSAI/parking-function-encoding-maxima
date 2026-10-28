@@ -1,0 +1,19 @@
+{
+  "public_snapshot_ready": true,
+  "proof_algorithm_ASTs_unchanged_except_repository_relative_locations": [
+    "exact_counts.py",
+    "rotation_injection.py",
+    "eliminate_ties.py",
+    "odd_prefix_repairs.py",
+    "binary_maximum_injection.py",
+    "solve_maximum.py",
+    "verify_full_solution.py"
+  ],
+  "local_paths_absent_from_public_text": true,
+  "all_unified_proof_checks_passed": true,
+  "paper_source_sha256": "026d55b354a5d09831193a0cefe189e35125a0905bc4765a15c81db72df8ca7a",
+  "paper_pdf_sha256": "57e9e85f835794b2467ed41348803e786b900b47605d670cb31e638f3700a462",
+  "paper_pages": 7,
+  "orcid": "0009-0000-9532-0821",
+  "text_newlines": "LF"
+}

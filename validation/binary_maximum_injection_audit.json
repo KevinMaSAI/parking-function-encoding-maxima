@@ -1,0 +1,92 @@
+{
+  "actual_word_checks": [
+    {
+      "n": 3,
+      "nonalternating_tieless_parking_functions": 2,
+      "steps_checked": 2,
+      "branches": {
+        "even_A": 1,
+        "even_D": 1
+      },
+      "all_checks_pass": true
+    },
+    {
+      "n": 4,
+      "nonalternating_tieless_parking_functions": 30,
+      "steps_checked": 32,
+      "branches": {
+        "even_A": 9,
+        "odd_A": 7,
+        "odd_D": 9,
+        "even_D": 7
+      },
+      "all_checks_pass": true
+    },
+    {
+      "n": 5,
+      "nonalternating_tieless_parking_functions": 401,
+      "steps_checked": 500,
+      "branches": {
+        "even_A": 167,
+        "even_D": 167,
+        "odd_A": 83,
+        "odd_D": 83
+      },
+      "all_checks_pass": true
+    },
+    {
+      "n": 6,
+      "nonalternating_tieless_parking_functions": 5946,
+      "steps_checked": 8640,
+      "branches": {
+        "even_A": 2237,
+        "odd_A": 2083,
+        "odd_D": 2237,
+        "even_D": 2083
+      },
+      "all_checks_pass": true
+    }
+  ],
+  "all_binary_class_checks": [
+    {
+      "n": 3,
+      "strict_step_and_global_count_checks": 2,
+      "missing_image_witnesses_checked": 2
+    },
+    {
+      "n": 4,
+      "strict_step_and_global_count_checks": 6,
+      "missing_image_witnesses_checked": 6
+    },
+    {
+      "n": 5,
+      "strict_step_and_global_count_checks": 14,
+      "missing_image_witnesses_checked": 14
+    },
+    {
+      "n": 6,
+      "strict_step_and_global_count_checks": 30,
+      "missing_image_witnesses_checked": 30
+    },
+    {
+      "n": 7,
+      "strict_step_and_global_count_checks": 62,
+      "missing_image_witnesses_checked": 62
+    },
+    {
+      "n": 8,
+      "strict_step_and_global_count_checks": 126,
+      "missing_image_witnesses_checked": 126
+    },
+    {
+      "n": 9,
+      "strict_step_and_global_count_checks": 254,
+      "missing_image_witnesses_checked": 254
+    },
+    {
+      "n": 10,
+      "strict_step_and_global_count_checks": 510,
+      "missing_image_witnesses_checked": 510
+    }
+  ]
+}

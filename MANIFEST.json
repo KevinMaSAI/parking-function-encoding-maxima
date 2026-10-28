@@ -1,0 +1,256 @@
+{
+  "schema": 1,
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 45,
+      "sha256": "87281b7fc1b6a009744ead7122bc753822fe7b0ea26bd7a9dd06fe4e83dcfc85"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 509,
+      "sha256": "dceeecb0fc465fb5a6f6cff2595a95172aefed3ac96c79de90f2d43d9d7e0469"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 67,
+      "sha256": "1b698493bcfd54c711e1bb2ab1c0bf7ebd7934e28d7501c90b8bd54874f69720"
+    },
+    {
+      "path": "AI_ASSISTANCE.md",
+      "bytes": 709,
+      "sha256": "8a006ccdca8dc42efb6dce0f1085f96bfe47a666c150de02ccad7c84cb91d11d"
+    },
+    {
+      "path": "CITATION.bib",
+      "bytes": 309,
+      "sha256": "1aa8fc46220ff6cbd1e7c879cb9fb1a280d353113c874f8e5a3377890a2374f0"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 1301,
+      "sha256": "0752373092c4b20dda7f4104c92d9526751245ab4d979bcbd1fdd02b9b2d3d7f"
+    },
+    {
+      "path": "docs/proof_zh.md",
+      "bytes": 21864,
+      "sha256": "a2a9d1c32f95c8038b7d7830208a12543f8d601c429dec502c5ee9d45c51a9ca"
+    },
+    {
+      "path": "history.md",
+      "bytes": 299,
+      "sha256": "ac24483c0ca41551b174728adc681c7afdb2b6e5af735d073362619a96b8c7c0"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 18656,
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+    },
+    {
+      "path": "LICENSE_MIT.txt",
+      "bytes": 1066,
+      "sha256": "c4ffce26c27b1b98ea35391e63a4d3121cb172981fe551eba8e4409a134480c7"
+    },
+    {
+      "path": "LICENSES.md",
+      "bytes": 554,
+      "sha256": "c735ef33eba14feb056e92a5ee040759150f5f37f0ea380b723d0e1a3078e2ba"
+    },
+    {
+      "path": "paper.pdf",
+      "bytes": 86837,
+      "sha256": "57e9e85f835794b2467ed41348803e786b900b47605d670cb31e638f3700a462"
+    },
+    {
+      "path": "preprints/Parking-Function-Comparison-Encodings-October-28-2026/BUILD.md",
+      "bytes": 698,
+      "sha256": "917212b18d23f57792dfbad5849b1d95475bda5aa088486d93c28a040e91d193"
+    },
+    {
+      "path": "preprints/Parking-Function-Comparison-Encodings-October-28-2026/main.tex",
+      "bytes": 21450,
+      "sha256": "026d55b354a5d09831193a0cefe189e35125a0905bc4765a15c81db72df8ca7a"
+    },
+    {
+      "path": "proof_artifacts/binary_maximum_injection.py",
+      "bytes": 7140,
+      "sha256": "9fab4216aa443bd412d5cbf27f79fcb0442d8c9168a36f99c73647ad781d0838"
+    },
+    {
+      "path": "proof_artifacts/counts_n1.json",
+      "bytes": 12,
+      "sha256": "14e7bd7c9f234c1b8e20f5cd960af97797110ac2570ff606a7d2dab74ab7ef16"
+    },
+    {
+      "path": "proof_artifacts/counts_n10.json",
+      "bytes": 419303,
+      "sha256": "4ae145d7a48f3ae022cf5c723cd994735fecf1463027e908db4eda900b23290e"
+    },
+    {
+      "path": "proof_artifacts/counts_n2.json",
+      "bytes": 33,
+      "sha256": "5e781ebcc48350d69de9703a321d9d5617a90b8ad7f12bdf68bf3111068f8651"
+    },
+    {
+      "path": "proof_artifacts/counts_n3.json",
+      "bytes": 102,
+      "sha256": "6d93f44b29f1103034c754c8f9f387801a9f0e00f6583bbc7cfe221e63d5d359"
+    },
+    {
+      "path": "proof_artifacts/counts_n4.json",
+      "bytes": 329,
+      "sha256": "0bc5d0e48c126156031e9dd6b6651e458a8070cf867e5cabbda53c09018f0a18"
+    },
+    {
+      "path": "proof_artifacts/counts_n5.json",
+      "bytes": 1098,
+      "sha256": "82772fc34ed0f02fe04be3ceade9c1e9845f527bd7277d8e82ad46f5951ec6cd"
+    },
+    {
+      "path": "proof_artifacts/counts_n6.json",
+      "bytes": 3624,
+      "sha256": "23f3cce948b383f699df42413ff9bcf23987f9fed1f93308d7e2be02d1206b36"
+    },
+    {
+      "path": "proof_artifacts/counts_n7.json",
+      "bytes": 11970,
+      "sha256": "98da6470644e3cdf35b44d8e889c8c65c326df1287e458f4853e5cee0daa3fde"
+    },
+    {
+      "path": "proof_artifacts/counts_n8.json",
+      "bytes": 39383,
+      "sha256": "020cba0f127946fbbbea8b27a1b36bb6174964ea08bb76101d4ef0e0fae6377b"
+    },
+    {
+      "path": "proof_artifacts/counts_n9.json",
+      "bytes": 128831,
+      "sha256": "973b5e6c5c330e3cde771b48da11833297d91a18752637f329a53246090e5c7d"
+    },
+    {
+      "path": "proof_artifacts/eliminate_ties.py",
+      "bytes": 4999,
+      "sha256": "fa02ee2dd4ea67c83c895fd66d0211711ddee5df7965caed20a22503b664d852"
+    },
+    {
+      "path": "proof_artifacts/enumerate_partitions.cpp",
+      "bytes": 3828,
+      "sha256": "cb2482b1f33c16ef6436ae20245228c2cbe78cfd6d7271566194ae3de50cb08f"
+    },
+    {
+      "path": "proof_artifacts/exact_counts.py",
+      "bytes": 6211,
+      "sha256": "2f7d265f1ecedf8e88e1690f99a7876cf6b4e497b27e767c7729edac8c00fcef"
+    },
+    {
+      "path": "proof_artifacts/odd_prefix_repairs.py",
+      "bytes": 3985,
+      "sha256": "e6faca5744d636f557ad5add4f09787346f7d400868ad003535e2c4aedafce86"
+    },
+    {
+      "path": "proof_artifacts/rotation_injection.py",
+      "bytes": 2429,
+      "sha256": "53f982ddba3cd66b7aea7dca53418fd42677ce0588319ad17f731f21aa3a75f6"
+    },
+    {
+      "path": "proof_artifacts/solve_maximum.py",
+      "bytes": 907,
+      "sha256": "f713b853634aca6362b495edd21121c43d21b304d252f2ffb4928f8315e44cdf"
+    },
+    {
+      "path": "proof_artifacts/verify.py",
+      "bytes": 2585,
+      "sha256": "c76efe8205100cd9252a3dceca7e0b313208f24ede1cd807a562fd7adf9d010c"
+    },
+    {
+      "path": "proof_artifacts/verify_full_solution.py",
+      "bytes": 2503,
+      "sha256": "1d0e4cbcc9b2e97d66e6173671caf82c5f4a037e35676446784d49c2a7db9d61"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3141,
+      "sha256": "858390a0bd4b7a9f18a1d1e0ac301553493ff51737974c957d14d857f531e715"
+    },
+    {
+      "path": "README_zh.md",
+      "bytes": 1624,
+      "sha256": "2d76733340328324d33d6c559f976c62e47cf66ef820c5dd71bfb2d121c0aada"
+    },
+    {
+      "path": "RELATED_WORK.md",
+      "bytes": 1363,
+      "sha256": "18de9c5ef47ac4c440b9174111ee6ace60b307e64763742c6829ddf1a19aaa98"
+    },
+    {
+      "path": "validation/binary_maximum_injection_audit.json",
+      "bytes": 2005,
+      "sha256": "d13409a13090795cda43ee6ca3bc95436c6a70b1f9019a8f3acf78362ecc27c3"
+    },
+    {
+      "path": "validation/final_classification_audit.json",
+      "bytes": 1013,
+      "sha256": "45b43e0a7c5b01ec8f989df66ec4c21efc751f78f8ba9b8690da648a39891f71"
+    },
+    {
+      "path": "validation/full_solution_composition_audit.json",
+      "bytes": 1487,
+      "sha256": "e32b8c42ea6da418510db1cd9738d728fb841cef9009296d42bb287c3d1fc056"
+    },
+    {
+      "path": "validation/maximum_values_dp_n20.json",
+      "bytes": 2436,
+      "sha256": "332a81c092111419fa01332f7b720a085bb50155ade65e25daa40240c6109427"
+    },
+    {
+      "path": "validation/odd_prefix_repairs_audit.json",
+      "bytes": 1912,
+      "sha256": "d226c9963a8d5fbde3008a423828b4044e2623506912c848f1e377dc0b99fe34"
+    },
+    {
+      "path": "validation/paper_build.json",
+      "bytes": 211,
+      "sha256": "06636c63ad1d293cdb595563d6b73dd2307c375c63e5fa3e7abd650bf3f94643"
+    },
+    {
+      "path": "validation/proof_checks.json",
+      "bytes": 605,
+      "sha256": "ab131b47a9988c24fb340a07959abdf25a742b98f0aba4e0d4cffe4a22163473"
+    },
+    {
+      "path": "validation/publication_checks.json",
+      "bytes": 663,
+      "sha256": "e5e7db704c1e11c6f5f02391b4c4dd09cf138f6eeb5093b81ec3500126db63ca"
+    },
+    {
+      "path": "validation/rotation_injection_audit.json",
+      "bytes": 1134,
+      "sha256": "7c1817b66fea0345187cefb5d578ed0a0738532b726a9af71c434c251daffc68"
+    },
+    {
+      "path": "validation/tie_elimination_audit.json",
+      "bytes": 3056,
+      "sha256": "a818ce8a834729e1ede627990d6e5a7ace50b0ae95ecdb25f62a5fd7cede338b"
+    },
+    {
+      "path": "validation/verification_small.json",
+      "bytes": 3935,
+      "sha256": "ba22543ba0860eb7e1978bee7e95a8e6fd18db559fe3c800f9cfa92cff79917b"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "bytes": 1397,
+      "sha256": "9b0087f1742aa4232b2049ac95ebdd6c5149f65958493e0b4feac4b6fde0421a"
+    },
+    {
+      "path": "verify_snapshot.py",
+      "bytes": 729,
+      "sha256": "cfab56fec863416f75284fa3a781cf38eca87e305dd020d9fa10b5ff52a81125"
+    },
+    {
+      "path": "reproducibility.zip",
+      "bytes": 281825,
+      "sha256": "d7e7c398cf4988ac585231dca5a57e7b7f736c376693e51692f94551446a66d5"
+    }
+  ]
+}
